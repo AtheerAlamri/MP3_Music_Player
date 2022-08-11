@@ -1,5 +1,5 @@
 # MP3_Music_Player
-A simple project MP3 Music Player.
+A simple project MP3 Music Player.<br>
 📍The actual window that contains the player is expandable.
 
 # Programming Language & Tools
